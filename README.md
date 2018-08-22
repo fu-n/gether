@@ -41,7 +41,7 @@ later
 
 ## What's next
 
-May the Google be with you.
+May the Google be with you!
 
 * https://qiita.com/amachino/items/b59ec8e46863ce2ebd4a
 
