@@ -17,7 +17,7 @@ later
 
 2. 構成をビルド
    ````
-   > cd <gether>
+   > cd <your cloned gether directory>
    > docker-compose build
    ````
 
