@@ -1,0 +1,9 @@
+version: '3.4'
+services:
+  gether:
+    container_name: gether
+    image: gether
+    build: .
+    volumes:
+      - ./password.txt:/password.txt
+      - ./.volumes/gether_data:/geth
